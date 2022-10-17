@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');  
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --my-Red: hsl(0, 78%, 62%);
+    --my-Cyan: hsl(180, 62%, 55%);
+    --my-Orange: hsl(34, 97%, 64%);
+    --my-Blue: hsl(212, 86%, 64%);
+    --very-dark-blue: hsl(234, 12%, 34%);
+    --greyish-blue: hsl(229, 6%, 66%);
+    --very-light-grey: hsl(0, 0%, 98%);
+}
+
+
+/* Body Styles */
+body{
+    background-color: var(--very-light-grey);
+}
+
+main >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer Styles */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
